@@ -1,4 +1,4 @@
-# foot-truck
+# food-truck
 
 ## Project setup
 ```
