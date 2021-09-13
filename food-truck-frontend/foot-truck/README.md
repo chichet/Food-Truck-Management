@@ -1,4 +1,4 @@
-# food-truck-frontend
+# foot-truck
 
 ## Project setup
 ```
