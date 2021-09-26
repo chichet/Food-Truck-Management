@@ -1,4 +1,4 @@
-# food-truck-frontend
+# food-truck-management
 
 ## Project setup
 ```
