@@ -9,7 +9,7 @@
       </v-col>
 
       <v-col
-        class="mb-5"
+        class="mb-0 ml-12"
         cols="12"
       >
         <label for="user">Username:    </label>
@@ -17,7 +17,7 @@
       </v-col>
 
       <v-col
-        class="mb-5"
+        class="mb-8 ml-12"
         cols="12"
       >
           <label for="password">Password:    </label>
@@ -26,7 +26,7 @@
     </v-row>
     <v-row
     align="center"
-    justify="space-around"
+    justify="center"
   >
     <v-btn depressed>
       Sign in
