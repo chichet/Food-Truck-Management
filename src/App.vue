@@ -1,14 +1,14 @@
 <template>
-  <HelloWorld msg="Food Truck Management System"/>
+  <LogInPage msg="GT Food Truck"/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import LogInPage from './components/HelloWorld.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    LogInPage
   }
 }
 </script>
