@@ -13,8 +13,8 @@
         cols="12"
       >
       <v-row
-    align="center"
-    justify="center">
+        align="center"
+        justify="center">
         <label for="user">Username:    </label>
         <input v-model="message" name = "user" placeholder="Username">
         <label for="email">Email:    </label>
@@ -27,8 +27,8 @@
         cols="12"
       >
           <v-row
-    align="center"
-    justify="center">
+        align="center"
+        justify="center">
         <label for="first">First Name:    </label>
           <input v-model="message" name = "first" placeholder="First Name">
         <label for="last">Last Name:    </label>
@@ -40,8 +40,8 @@
         cols="12"
       >
           <v-row
-    align="center"
-    justify="center">
+        align="center"
+        justify="center">
         <label for="password">Password:    </label>
           <input v-model="message" name = "password" placeholder="password">
         <label for="confirm">Confirm Password:    </label>
@@ -53,8 +53,8 @@
         cols="12"
       >
           <v-row
-    align="center"
-    justify="center">
+        align="center"
+        justify="center">
         <label for="balance">Balance:    </label>
           <input v-model="message" name = "balance" placeholder="balance">
           <input type="radio" id="Admin" value="Admin" v-model="picked">
@@ -67,8 +67,8 @@
       </v-col>
     </v-row>
     <v-row
-    align="center"
-    justify="center"
+        align="center"
+        justify="center"
   >
     <v-btn depressed>
       Sign in
